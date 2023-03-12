@@ -1,0 +1,25 @@
+{
+  "name": "fpyajs-import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server ./src",
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bas27/fpyajs-Import-Export.git"
+  },
+  "author": "Alexander B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bas27/fpyajs-Import-Export/issues"
+  },
+  "homepage": "https://github.com/bas27/fpyajs-Import-Export#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "live-server": "^1.2.2"
+  }
+}
